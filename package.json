@@ -1,0 +1,35 @@
+{
+  "name": "eslint-config-react-dgabrielm",
+  "version": "1.0.0",
+  "description": "eslint configuration for react projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dario Mincioni",
+  "license": "MIT",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.2.1",
+    "@typescript-eslint/parser": "^6.2.1",
+    "eslint-plugin-storybook": "^0.6.13"
+  },
+  "peerDependencies": {
+    "eslint": ">= 8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgabrielm/eslint-config-react-dgabrielm.git"
+  },
+  "files": [
+    "index.js",
+    "package.json",
+    "package-lock.json",
+    "CHANGELOG.md",
+    "README.md",
+    "LICENSE"
+  ]
+}
