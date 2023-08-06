@@ -1,6 +1,6 @@
 ## Usage
 ```
-npm install eslint-config-react-dgabrielm
+npm install @dgabrielm/eslint-config-react
 ```
 in your eslintrc file add
 ```
