@@ -1,3 +1,12 @@
+## [1.1.2](https://github.com/dgabrielm/eslint-config-react/compare/v1.1.1...v1.1.2) (2023-08-12)
+
+
+### Bug Fixes
+
+* update the .gitignore ([c71fe6e](https://github.com/dgabrielm/eslint-config-react/commit/c71fe6e427a902a6cf5a960b7479358eaa9148cb))
+
+
+
 ## [1.1.1](https://github.com/dgabrielm/eslint-config-react/compare/v1.1.0...v1.1.1) (2023-08-06)
 
 
